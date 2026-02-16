@@ -10,8 +10,8 @@ Hands-on experience building AWS serverless systems, production-ready microservi
 ---
 
 ## ⚙️ Core Focus Areas
-- **DevOps Foundations:** Docker, CI/CD, Git workflows, monitoring basics
-- **Cloud Engineering:** AWS (Lambda, API Gateway, DynamoDB, S3, IAM, EC2, CloudWatch, EventBridge)
+- **DevOps Foundations:** Docker, Kubernetes, CI/CD, Git workflows, monitoring basics
+- **Cloud Engineering:** AWS (Lambda, API Gateway, DynamoDB, S3, IAM, EC2, CloudWatch, EventBridge,Bedrock)
 - **Backend Development:** REST APIs, Microservices, Serverless Architectures
 - **GenAI Basics:** RAG pipelines, AWS Bedrock integration, AI cost optimization
 
