@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
-<h3 align="center">Cloud Engineering Enthusiast | AWS Serverless Architect | DevOps Learner | GenAI Explorer</h3>
+<h3 align="center">Backend Developer |Cloud  Enthusiast | AWS Serverless Architect | DevOps Learner | GenAI Explorer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alokraj54/">
@@ -148,18 +148,6 @@ Full-stack event platform with dynamic templates and AWS-backed media storage.
 - 📜 IBM DevOps & Software Engineering Professional Certificate
 - 🤖 AWS Generative AI & AI Agents with Amazon Bedrock
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raj45alok&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj45alok&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj45alok&theme=radical"/>
-</p>
 
 ---
 
