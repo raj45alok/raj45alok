@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alok Raj</h1>
-<h3 align="center">Backend Developer |Cloud  Enthusiast | AWS Serverless Architect | DevOps Learner | GenAI Explorer</h3>
+<h3 align="center">Backend Developer | Cloud Enthusiast | AWS Serverless Architect | DevOps Learner | GenAI Explorer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alokraj54/">
-    <img src="https://img.shields.io/badge/LinkedIn-AlokRaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Alok Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/ALOKRAJ12/">
     <img src="https://img.shields.io/badge/LeetCode-ALOKRAJ12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -20,14 +20,35 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE (Cloud Computing & Automation) – Vellore Institue of Technology, Bhopal (CGA: 8.88/10) 
-☁️ AWS Certified – Cloud Practioner (score :1000/1000) 
-🏆 Winner – Nebula Nexus Hackathon 2025 @ MIT Jaipur  
-☁️ AWS Certified – Generative AI & AI Agents  
-🏗️ Built 30+ production-ready AWS microservices during internship  
-📈 Focused on scalable, cost-efficient cloud systems  
+🎓 **B.Tech CSE (Cloud Computing & Automation)**  
+Vellore Institute of Technology, Bhopal (CGA: 8.88/10)  
 
-I specialize in **AWS Serverless Architectures, Backend Engineering, and DevOps practices**, with hands-on experience integrating **Generative AI into production systems**.
+☁️ **AWS Certified – Cloud Practitioner** *(Score: 1000/1000)*  
+🤖 **AWS Certified – Generative AI & AI Agents**  
+
+🏆 **Winner – Nebula Nexus Hackathon 2025 @ MIT Jaipur**  
+
+🏗️ Built **30+ production-ready AWS microservices** during internship  
+📈 Focused on designing **scalable, cost-efficient cloud systems**  
+
+---
+
+## 🚀 What I Do
+
+I specialize in:
+- ☁️ **AWS Serverless Architectures**
+- ⚙️ **Backend Engineering (Microservices, APIs)**
+- 🔁 **DevOps & Automation**
+- 🤖 **Integrating Generative AI into production systems**
+
+---
+
+## 💡 Interests
+
+- Distributed Systems  
+- AI Infrastructure & Inference Systems  
+- Cloud-Native Architectures  
+- Performance Optimization  
 
 ---
 
