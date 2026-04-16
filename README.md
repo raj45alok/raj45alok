@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE (Cloud Computing & Automation) – VIT Bhopal (CGPA: 8.88/10)  
+🎓 B.Tech CSE (Cloud Computing & Automation) – Vellore Institue of Technology, Bhopal (CGPA: 8.88/10)  
 🏆 Winner – Nebula Nexus Hackathon 2025 @ MIT Jaipur  
 ☁️ AWS Certified – Generative AI & AI Agents  
 🏗️ Built 30+ production-ready AWS microservices during internship  
