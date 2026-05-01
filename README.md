@@ -30,7 +30,7 @@
 🏗️ &nbsp;**30+ production AWS Lambda microservices** deployed during internship at IPAGE Group  
 🤖 &nbsp;Currently building **agentic AI systems** and **RAG pipelines** for real-world financial and educational use cases  
 
-> I build cloud-native, serverless backends where AWS infrastructure, LLM reasoning, and production-grade engineering meet.
+> I design and deploy production-grade serverless systems on AWS, combining scalable cloud architecture with LLM-driven intelligence to solve real-world problems in fintech and education.
 
 ---
 
@@ -42,6 +42,11 @@ Agentic AI video call–based loan onboarding system replacing paper-based appli
 **Phase 1 ✅ Complete** &nbsp;·&nbsp; **Phase 2 🔄 AWS Migration In Progress**
 
 `FastAPI` `XGBoost` `Groq llama-3.3-70b` `AWS Textract` `OpenAI Whisper` `DeepFace` `DynamoDB` `SQS` `Step Functions` `React + Vite` `WebRTC` `Docker`
+**Engineering highlights:**
+- 9-signal fraud engine with decision matrix producing AUTO_APPROVE / HUMAN_REVIEW / BLOCK outcomes
+- XGBoost risk scorer (AUC 0.7497) trained on 307K samples with <100ms inference time
+- Async SQS fan-out triggering parallel STT, CV, and OCR Lambda processing per session
+- Full immutable audit trail across DynamoDB with RBI V-CIP and DPDP Act 2023 compliance
 
 🔗 [View Repository](https://github.com/raj45alok/Loan-Wizard)
 
@@ -51,6 +56,10 @@ Agentic AI video call–based loan onboarding system replacing paper-based appli
 RAG-powered Indian stock market intelligence platform with Market Chat, Opportunity Radar, and a Finfluencer Fact-Checker backed by SEBI-verified data.
 
 `LangChain` `Pinecone` `Groq llama-3.3-70b` `BAAI/bge-base-en-v1.5` `React` `FastAPI`
+**Engineering highlights:**
+- RAG pipeline using Pinecone (BAAI/bge-base-en-v1.5, 768-dim) with SEBI-verified financial data
+- Finfluencer Fact-Checker cross-referencing claims against indexed regulatory filings
+- Groq llama-3.3-70b for sub-second market intelligence query responses
 
 🔗 [View Repository](https://github.com/raj45alok/MarketMind) &nbsp;·&nbsp; 🌐 *Live deployment coming soon*
 
@@ -81,10 +90,10 @@ RAG-powered Indian stock market intelligence platform with Market Chat, Opportun
 
 AI classroom platform with automated scheduling, Bedrock-powered worksheet generation, RAG-based doubt resolution, and parent performance reports via email.
 
-- EventBridge-triggered autonomous content delivery pipeline
-- Reduced doubt-resolution latency by **70%** using semantic retrieval
-- Architecture: `React → API Gateway → Lambda → DynamoDB/S3 → Bedrock → SES`
-
+**Engineering highlights:**
+- EventBridge-triggered autonomous content delivery pipeline — zero manual intervention
+- Bedrock-powered worksheet generation and auto-grading system
+- RAG-based doubt solver reducing query latency by 70% via semantic retrieval
 ---
 
 ### 🔐 SafeX 3.0
