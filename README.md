@@ -187,13 +187,13 @@ Live space mission dashboard with ISS tracking, Mars weather visualisations, nea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj45alok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raj45alok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj45alok&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj45alok&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj45alok&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=raj45alok&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
