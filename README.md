@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 &nbsp;**B.Tech CSE — Cloud Computing & Automation** &nbsp;|&nbsp; VIT Bhopal &nbsp;|&nbsp; CGPA: 8.88 / 10 &nbsp;|&nbsp; Graduating 2027  
+🎓 &nbsp;**B.Tech CSE — Cloud Computing & Automation** &nbsp;|&nbsp; VIT Bhopal &nbsp;|&nbsp; CGPA: 8.91 / 10 &nbsp;|&nbsp; Graduating 2027  
 ☁️ &nbsp;**AWS Certified Cloud Practitioner** — Score: **1000 / 1000**   
 🏆 &nbsp;**National Hackathon Winner** — Nebula Nexus 2025 @ MIT Jaipur  
 🏗️ &nbsp;**30+ production AWS Lambda microservices** deployed during internship at IPAGE Group  
