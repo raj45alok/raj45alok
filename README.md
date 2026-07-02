@@ -24,13 +24,20 @@
 
 ## 👨‍💻 About Me
 
-🎓 &nbsp;**B.Tech CSE — Cloud Computing & Automation** &nbsp;|&nbsp; VIT Bhopal &nbsp;|&nbsp; CGPA: 8.93 / 10 &nbsp;|&nbsp; Graduating 2027  
-☁️ &nbsp;**AWS Certified Solution Architect -Associate ** — Score: **893 / 1000** 
-☁️ &nbsp;**AWS Certified Cloud Practitioner** — Score: **1000 / 1000** 
-🏆 &nbsp; **Top Performing Candidate** — ET AI Hackathon 2026, The Economic Times (May 2026)
-🏆 &nbsp;**National Hackathon Winner** — Nebula Nexus 2025 @ MIT Jaipur  
-🏗️ &nbsp;**30+ production AWS Lambda microservices** deployed during internship at IPAGE Group  
-🤖 &nbsp;Currently building **agentic AI systems** and **RAG pipelines** for real-world financial and educational use cases  
+🎓 **B.Tech CSE (Cloud Computing & Automation)**
+**VIT Bhopal University** | **CGPA:** 8.93 / 10 | **Graduating:** 2027
+
+☁️ **AWS Certified Solutions Architect – Associate** — **Score:** 893 / 1000
+
+☁️ **AWS Certified Cloud Practitioner** — **Score:** 1000 / 1000
+
+🏆 **Top Performing Candidate** — ET AI Hackathon 2026, *The Economic Times* (May 2026)
+
+🏆 **National Hackathon Winner** — Nebula Nexus 2025 @ MIT Jaipur
+
+🏗️ Built and deployed **30+ production AWS Lambda microservices** during my internship at IPAGE Group
+
+🤖 Currently building **agentic AI systems** and **RAG pipelines** for real-world financial and educational applications
 
 > I design and deploy production-grade serverless systems on AWS, combining scalable cloud architecture with LLM-driven intelligence to solve real-world problems in fintech and education.
 
