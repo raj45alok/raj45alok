@@ -31,11 +31,13 @@
 
 ☁️ **AWS Certified Cloud Practitioner** — **Score:** 1000 / 1000
 
+🔧 **IBM DevOps & Software Engineering Professional Certificate** — IBM / Coursera
+
 🏆 **Top Performing Candidate** — ET AI Hackathon 2026, *The Economic Times* (May 2026)
 
-🏆 **National Hackathon Winner** — Nebula Nexus 2025 @ MIT Jaipur
+🏆 **Winner** — Nebula Nexus Hackathon 2025 @ MIT Jaipur
 
-🏗️ Built and deployed **30+ production AWS Lambda microservices** during my internship at IPAGE Group
+🏗️ Architected **30+ production AWS Lambda microservices** during my internship at IPAGE Group
 
 🤖 Currently building **agentic AI systems** and **RAG pipelines** for real-world financial and educational applications
 
@@ -43,106 +45,44 @@
 
 ---
 
-## 🔭 Currently Building
-
-### 🏦 Loan Wizard &nbsp;—&nbsp; *TenzorX 2026 National AI Hackathon · Poonawalla Fincorp*
-Agentic AI video call–based loan onboarding system replacing paper-based applications with a live video session. Captures identity, income declaration, and consent in real time — then scores risk, detects fraud, and generates a personalised offer with a full immutable audit trail.
-
-**Phase 1 ✅ Complete** &nbsp;·&nbsp; **Phase 2 🔄 AWS Migration In Progress**
-
-`FastAPI` `XGBoost` `Groq llama-3.3-70b` `AWS Textract` `OpenAI Whisper` `DeepFace` `DynamoDB` `SQS` `Step Functions` `React + Vite` `WebRTC` `Docker`
-**Engineering highlights:**
-- 9-signal fraud engine with decision matrix producing AUTO_APPROVE / HUMAN_REVIEW / BLOCK outcomes
-- XGBoost risk scorer (AUC 0.7497) trained on 307K samples with <100ms inference time
-- Async SQS fan-out triggering parallel STT, CV, and OCR Lambda processing per session
-- Full immutable audit trail across DynamoDB with RBI V-CIP and DPDP Act 2023 compliance
-
-🔗 [View Repository](https://github.com/raj45alok/Loan-Wizard)
-
----
-
-### 📈 MarketMind AI &nbsp;—&nbsp; *ET AI GenAI Hackathon 2026*
-RAG-powered Indian stock market intelligence platform with Market Chat, Opportunity Radar, and a Finfluencer Fact-Checker backed by SEBI-verified data.
-
-`LangChain` `Pinecone` `Groq llama-3.3-70b` `BAAI/bge-base-en-v1.5` `React` `FastAPI`
-**Engineering highlights:**
-- RAG pipeline using Pinecone (BAAI/bge-base-en-v1.5, 768-dim) with SEBI-verified financial data
-- Finfluencer Fact-Checker cross-referencing claims against indexed regulatory filings
-- Groq llama-3.3-70b for sub-second market intelligence query responses
-
-🔗 [View Repository](https://github.com/raj45alok/MarketMind) &nbsp;·&nbsp; 🌐 *Live deployment coming soon*
-
----
-
 ## 💼 Experience
 
-### ☁️ Cloud Engineering Intern &nbsp;—&nbsp; IPAGE Group &nbsp;*(Aug 2025 – Jan 2026)*
+### ☁️ Cloud Engineering Intern (Backend Systems) — IPAGE Group &nbsp;*(Aug 2025 – Jan 2026)*
 `AWS Lambda` `S3` `DynamoDB` `API Gateway` `Python` `Node.js` `React`
 
-- Architected and deployed **30+ AWS Lambda microservices** powering live production workflows
-- Reduced AI content generation costs by **88%** through intelligent model-switching logic
-- Built S3 + DynamoDB pipelines serving live production traffic with scalable storage architecture
-- Designed a token management and approval-workflow system with role-based admin dashboards
+- Architected 30+ serverless microservices on AWS Lambda powering an 8-step company registration and AI template generation workflow for dronetv.in, designed for 5,000 concurrent users serving 500–1,000 daily registrations
+- Reduced AI content generation costs by **88%** through intelligent model routing across GPT-3.5 and GPT-4 based on request complexity
+- Engineered a 3-stage DynamoDB pipeline (draft → under review → approved) with S3-backed asset storage and state-driven Nodemailer triggers
+- Built admin management backend with JWT-based auth and RBAC for template approval and live publishing
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📈 MarketMind AI — *ET AI GenAI Hackathon 2026*
+`LangChain` `Pinecone` `Groq llama-3.3-70b` `FinBERT` `FastAPI` `React`
+
+RAG-powered Indian stock market intelligence platform pulling from 5 live sources (NSE, ET Markets, SEBI, BSE, YouTube), with a Finfluencer Fact-Checker that verifies claims against live market data.
+
+🔗 [View Repository](https://github.com/raj45alok/MarketMind)
+
 ---
 
-### 🤖 Sahayak AI
-**AI-powered classroom assistant for Grades 6–8**
+### 🎓 Sahayak AI
+`AWS Lambda` `Bedrock` `DynamoDB` `S3` `EventBridge` `OpenSearch` `React`
 
-`AWS Lambda` `Bedrock` `DynamoDB` `S3` `SES` `EventBridge` `React` `RAG Pipeline`
+Multilingual AI classroom assistant for Grades 6–8 using 20+ AWS Lambda functions and Amazon Bedrock. RAG pipeline over an NCERT data lake on OpenSearch Serverless reduces query latency by 70%.
 
-🌐 [Live Demo](https://sahayak-ai-sigma.vercel.app)
+🌐 [Live Demo](https://sahayak-ai-sigma.vercel.app) &nbsp;·&nbsp; 🔗 [View Repository](https://github.com/raj45alok/SahayakAI)
 
-AI classroom platform with automated scheduling, Bedrock-powered worksheet generation, RAG-based doubt resolution, and parent performance reports via email.
-
-**Engineering highlights:**
-- EventBridge-triggered autonomous content delivery pipeline — zero manual intervention
-- Bedrock-powered worksheet generation and auto-grading system
-- RAG-based doubt solver reducing query latency by 70% via semantic retrieval
 ---
 
-### 🔐 SafeX 3.0
-**3-Factor Serverless Authentication System**
+### 🔐 SafeX 3.0 — 3-Factor Serverless Authentication
+`AWS Rekognition` `Lambda` `API Gateway` `S3` `MongoDB` `React`
 
-`AWS Rekognition` `Lambda` `S3` `API Gateway` `MongoDB` `React`
+Multi-layer authentication combining bcrypt password verification, AWS Rekognition facial recognition, and OTP — orchestrated via 8 REST API endpoints, fully serverless.
 
 🔗 [Frontend Repo](https://github.com/raj45alok/SafeX3.0-Frontend) &nbsp;·&nbsp; [Backend Repo](https://github.com/raj45alok/SafeX3.0-Backend)
-
-Multi-layer authentication with facial recognition, OTP verification, and a secure credential vault — fully serverless.
-
-- Authentication flow: `Password → Rekognition Face Match → OTP → Secure Vault`
-- Facial embeddings stored in S3 with Rekognition-based comparison at auth time
-- Stateless serverless backend — zero server management overhead
-
----
-
-### 📅 Professional Event Management Portal
-**Full-Stack Event Platform with AWS Media Backend**
-
-`React` `AWS Lambda` `DynamoDB` `S3` `MongoDB`
-
-🔗 [View Repository](https://github.com/raj45alok/Professional-Event-Management-Portal)
-
-Dynamic event creation and management platform with dual UI templates and AWS-backed media storage.
-
-- Multi-step event creation with S3 uploads for banners, speakers, and partner assets
-- Classic and Modern UI templates with event search and filtering
-- Secure environment variable management and serverless API layer
-
----
-
-### 📡 Matrix Space Dashboard
-**Real-Time Space Mission Analytics**
-
-`React` `NASA API` `SpaceX API` `Chart.js`
-
-🌐 [Live Demo](https://matrix-space-dashboard.vercel.app)
-
-Live space mission dashboard with ISS tracking, Mars weather visualisations, near-Earth asteroid monitoring, and satellite telemetry graphs.
 
 ---
 
@@ -154,51 +94,30 @@ Live space mission dashboard with ISS tracking, Mars weather visualisations, nea
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/AWS_Bedrock-7B42BC?style=flat-square)
 ![Rekognition](https://img.shields.io/badge/Rekognition-9C27B0?style=flat-square)
-![Textract](https://img.shields.io/badge/Textract-FF9900?style=flat-square)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### 🤖 AI / GenAI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B2D?style=flat-square)
-![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🏅 Certifications & Achievements
-
-| | Credential | Issuer | Year |
-|---|---|---|---|
-| 🏆 | **Winner — Nebula Nexus Hackathon 2025** | MIT Jaipur (National Level) | 2025 |
-| ☁️ | **AWS Certified Cloud Practitioner** — Score 1000/1000 | Amazon Web Services | 2025 |
-| 🤖 | **Generative AI & AI Agents with Amazon Bedrock** *(Professional Certificate)* | Coursera | 2025 |
-| 🔧 | **IBM DevOps & Software Engineering Professional Certificate** *(15-course series)* | IBM / Coursera | Jan 2026 |
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -210,24 +129,8 @@ Live space mission dashboard with ISS tracking, Mars weather visualisations, nea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj45alok&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=raj45alok&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Currently Learning
-
-- **AWS Solutions Architect Associate** 
-- **n8n Workflow Automation** — LLM-integrated automation pipelines
-- **DevOps** — CI/CD, GitHub Actions, containerisation
-
 ---
 
 <p align="center">
-  <i>Open to internships and full-time roles in Cloud Engineering, Backend Development, and GenAI systems — graduating 2027.</i>
-</p>
-
-<p align="center">
-  ⚡ &nbsp; Building reliable, cost-efficient, production-grade systems with an engineering-first mindset &nbsp; ⚡
+  <i>Final year, graduating 2027. Open to internships and pre-placement opportunities in Cloud/DevOps, Backend/SDE, and GenAI roles.</i>
 </p>
