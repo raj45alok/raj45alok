@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/ALOKRAJ12/">
-    <img src="https://img.shields.io/badge/LeetCode-189%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
   <a href="https://github.com/raj45alok/Resume">
