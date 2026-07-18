@@ -190,7 +190,7 @@ Real-time space mission analytics — ISS tracking, Mars weather visualisations,
 ---
 
 <p align="center">
-  <i>Pre-final year, graduating 2027 — open to internships and pre-placement opportunities in Cloud/DevOps, Backend/SDE, and GenAI roles.</i>
+  <i>Final year, graduating 2027 — open to internships and pre-placement opportunities in Cloud/DevOps, Backend/SDE, and GenAI roles.</i>
 </p>
 
 <p align="center">
