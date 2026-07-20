@@ -88,7 +88,7 @@ RAG-powered Indian stock market intelligence platform pulling from 5 live source
 
 AI classroom platform for Grades 6–8 using 20+ AWS Lambda functions and Amazon Bedrock (Nova, Titan, Deepseek) — autonomous lesson scheduling, worksheet generation, assignment evaluation, and AI-powered doubt resolution. RAG pipeline over an NCERT data lake on OpenSearch Serverless cuts query latency by 70%.
 
-🌐 [Live Demo](https://sahayak-ai-sigma.vercel.app) &nbsp;·&nbsp; 🔗 [View Repository](https://github.com/raj45alok/SahayakAI)
+
 
 ---
 
