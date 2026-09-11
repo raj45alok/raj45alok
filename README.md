@@ -42,21 +42,32 @@
 
 ## 🔭 Currently Building
 
-### 🏦 Loan Wizard — *TenzorX 2026 National AI Hackathon · Poonawalla Fincorp*
+Rit — Youth Sports Development Platform · India
 
-Agentic, video call–based loan onboarding system replacing paper-based applications — captures identity, income declaration, and consent live, then scores risk, detects fraud, and generates a personalised offer with a full immutable audit trail.
+Coach-mediated longitudinal athlete development platform designed to strengthen India’s grassroots-to-elite sports pipeline by standardising how coaches assess, track, and develop children aged 6–16 across Athletics, Badminton, Boxing, and Swimming.
 
-**Phase 1 ✅ Complete** &nbsp;·&nbsp; **Phase 2 🔄 AWS Migration In Progress**
+Research & Product Architecture ✅ Established · Phase 1 🔄 Starting Soon
 
-`FastAPI` `XGBoost` `Groq llama-3.3-70b` `AWS Textract` `OpenAI Whisper` `DeepFace` `DynamoDB` `SQS` `Step Functions` `React + Vite` `WebRTC` `Docker`
+Next.js TypeScript FastAPI PostgreSQL IndexedDB Python
 
-**Engineering highlights:**
-- 9-signal fraud engine with a decision matrix producing AUTO_APPROVE / HUMAN_REVIEW / BLOCK outcomes
-- XGBoost risk scorer (AUC 0.7497) trained on 307K samples, <100ms inference time
-- Async SQS fan-out triggering parallel STT, CV, and OCR Lambda processing per session
-- Immutable DynamoDB audit trail built for RBI V-CIP and DPDP Act 2023 compliance
+Engineering highlights:
 
-🔗 [View Repository](https://github.com/raj45alok/Loan-Wizard)
+Role-based platform supporting Coach, Athlete, Guardian, and Institution Administrator roles with relationship-scoped authorization
+Versioned assessment engine with immutable finalized records and complete longitudinal athlete history
+Evidence-backed assessment framework supporting batteries such as PERF-FIT and KTK3+, with sport-specific assessments such as OSF where appropriate and subject to final validation/licensing decisions
+Offline-first assessment capture using IndexedDB with a durable synchronization queue and explicit conflict resolution
+NCAB-compatible coach credentialing infrastructure for recording, verifying, and maintaining coach credentials and professional portfolios without positioning RIT as an accreditation authority
+Human-in-the-loop development decisions, keeping qualified coaches at the centre of assessment, interpretation, and athlete development
+Development-over-selection approach, enabling repeated assessment and trajectory tracking rather than relying on one-time performance or rankings
+Privacy and safeguarding by design, with relationship-scoped access, consent-aware workflows, auditability, and no public child leaderboards
+
+Core principle:
+
+Assess → Understand → Develop → Reassess → Track Progress
+
+Rit is designed as development infrastructure around India's existing sports ecosystem, complementing systems such as KIRTI and the emerging NCAB framework rather than attempting to replace them.
+
+🔗 [View Repository](https://github.com/raj45alok/Rit-Documentation)
 
 ---
 
